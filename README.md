@@ -3,7 +3,7 @@
 ```mermaid
 ---
 config:
-  look: handDrawn
+  look: dark
   theme: neutral
 ---
 flowchart TB
