@@ -1,8 +1,11 @@
 ## Ja puita 🪵
 
 ```mermaid
-graph TD;
-  A[pipi]
-   --> B[<img src='TatujaPatuONNI.jpg' width:'40'; height: '40';/>]
-
+---
+config:
+  look: dark
+  theme: neutral
+---
+flowchart TB
+    A{Sleeping}
 ```
