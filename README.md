@@ -6,4 +6,4 @@ for (int i = 0; i <= 3; i++) {
 ```
 ___
 
-
+![alt](https://github-readme-stats.vercel.app/api/top-langs/?username=onnikiv&theme=blue-green&show_icons=true&hide_border=true&layout=compact)
