@@ -1,6 +1,6 @@
 ## 🪵Puita
 ```javascript
-for (int i = 0; i <= 3; i++) {
+for (let i = 0; i <= 3; i++) {
            console.log(" ".repeat((4 - i)) + "*".repeat(1 + i) + "*".repeat(i));
         }
 ```
