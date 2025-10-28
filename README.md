@@ -10,6 +10,3 @@ public static void main(String[] args) {
     }
 ```
 ___
-
-
-![alt](https://github-readme-stats.vercel.app/api/top-langs/?username=onnikiv&theme=blue-green&show_icons=true&hide_border=false&layout=compact)
