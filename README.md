@@ -1,4 +1,7 @@
 ## 🪵Puita
+<a href="https://github.com/onnikiv/solu/blob/master/1.README-images/player-walk.gif">
+  <img src="https://github.com/onnikiv/solu/blob/master/1.README-images/player-walk.gif" alt="player walk" width="80" height="80">
+</a>
 
 **Java on herkku**
 
@@ -9,6 +12,7 @@ public static void main(String[] args) {
         }
     }
 ```
+
 [<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40">](https://git-scm.com/) &nbsp;
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40">](https://www.java.com) &nbsp;
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40">](https://www.python.org) &nbsp;
